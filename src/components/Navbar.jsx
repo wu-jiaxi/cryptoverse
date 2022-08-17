@@ -32,7 +32,7 @@ const Navbar = () => {
           </Menu.Item>
           <Menu.Item icon={<HomeOutlined />}>
             {' '}
-            <Link to='/'>Home</Link>
+          
           </Menu.Item>
         </Menu>
       </Menu>
